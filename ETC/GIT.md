@@ -9,7 +9,7 @@
 1. 'Click here to download' 클릭
 2. 설치된 파일 실행
 3. setup 설정: 기본 default로 진행
- > * 'select distination location' : 설치될 경로 지정
+ * 'select distination location' : 설치될 경로 지정
  > > * choosing the default editor used by git: 에디터 선택
       use vim(기본 default) 선택(주로 사용하는 에디터가 있다면 변경 가능)
   * Adjusting the name of the initial branch in new repositories: 기본 branch 설정
