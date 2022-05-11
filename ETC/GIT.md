@@ -1,12 +1,10 @@
 # git 기본 개념
-------------------------------------
-1. 윈도우에 git 설치하기 (운영체제에 맞추어 설정)
-1) 참고: https://taewow.tistory.com/13
+
 ----------------------------------
 # git 설치
 
-1. 윈도우에 git 설치하기 (운영체제에 맞추어 설정)
-1) 참고: https://taewow.tistory.com/13
+## 1. 윈도우에 git 설치하기 (운영체제에 맞추어 설정)
+1. 참고: https://taewow.tistory.com/13
 - 다운로드 주소: https://git-scm.com/download/win
 - 'Click here to download' 클릭
 - 설치된 파일 실행
