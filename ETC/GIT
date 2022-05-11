@@ -21,6 +21,6 @@
 2. GIT Bash 실행 및 환경설정(config)
 - 윈도우에 설치된 git bash 열기: command에서 환경설정 진행
 - 사용자 이름/이메일 등록
-> $git congif --global user.name
-  
-    
+> $git config --global user.name "a0lim"
+> $git config --global user.email "[메일주소]"
+> >git config
